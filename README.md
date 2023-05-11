@@ -1,4 +1,4 @@
 # DataSets_numpyGenerated
 Image Classification DataSets created with numpy only.
 
-![](figBrownian.png)
+![DataSet generated with BrownianDataSet.py file](figBrownian.png)
